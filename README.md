@@ -41,6 +41,8 @@ no Supports
 ### Putting things togeter
 See the pictures in pics folder.
 
+Insert the hexnuts with a soldering iron. Use washers between loadcell and scalecase.
+
 Test the touch wires before closing the case, there is a serial feedback. The wires can be pushed into the screw holes of the displayfeet and then just screw in the display holder. You might want to change touchpins T0-T9 (line 72)
 
 
