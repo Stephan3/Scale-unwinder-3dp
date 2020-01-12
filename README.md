@@ -39,4 +39,8 @@ Print in ABS -
 no Supports
 
 ### Putting things togeter
-See the pictures in pics folder
+See the pictures in pics folder.
+
+Test the touch wires before closing the case, there is a serial feedback. The wires can be pushed into the screw holes of the displayfeet and then just screw in the display holder. You might want to change touchpins T0-T9 (line 72)
+
+
