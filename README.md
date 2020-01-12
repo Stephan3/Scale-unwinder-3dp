@@ -11,6 +11,8 @@ Bearings 608RS - https://www.amazon.de/gp/product/B00WXDAUQG/
 
 A ESP32 mcu - https://de.aliexpress.com/item/32839344778
 
+20KG HX711 Loadcell - https://www.amazon.de/B075KF3W3L/
+
 Wires
 
 M3 screws(M3x12)
