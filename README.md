@@ -7,11 +7,13 @@ As my wife hated me a ton for taking away her kitchen scale every day, this here
 You can hardcode two offsets(empty spoolweights) and select them by touching the screws below the display.
 
 ### Components used:
-Bearings 608RS - https://www.amazon.de/gp/product/B00WXDAUQG/
+Bearings 608RS - [Amazon](https://www.amazon.de/gp/product/B00WXDAUQG/)
 
-A ESP32 mcu - https://de.aliexpress.com/item/32839344778
+A ESP32 mcu - [Aliexpress](https://de.aliexpress.com/item/32839344778)
 
-20KG HX711 Loadcell - https://www.amazon.de/B075KF3W3L/
+20KG HX711 Loadcell - [Amazon](https://www.amazon.de/ILS-Module-Aluminum-Weighing-Arduino/dp/B0768CN3T9/ref=sr_1_5?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=27R3F3R5OFVRF&keywords=load+cell+20kg&qid=1578851787&sprefix=load+ce%2Caps%2C161&sr=8-5)
+
+128x64 OLED LCD - [Amazon](https://www.amazon.de/AZDelivery-Display-Arduino-Raspberry-gratis/dp/B074N9VLZX/ref=sr_1_5?__mk_de_DE=ÅMÅŽÕÑ&keywords=OLED+arduino&qid=1578851947&sr=8-5)
 
 Wires
 
