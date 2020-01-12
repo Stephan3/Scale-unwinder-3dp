@@ -4,6 +4,8 @@ A ESP32 driven Scale, Adjustable spoolwidth, esp touch for tare, offset 1, offse
 For my recuring plates i need to know the remaining Filamet on spool. 
 As my wife hated me a ton for taking away her kitchen scale every day, this here became my solution.
 
+![render](https://raw.githubusercontent.com/Stephan3/Scale-unwinder-3dp/master/pics/render_1.PNG)
+
 You can hardcode two offsets(empty spoolweights) and select them by touching the screws below the display.
 
 ### Components used:
@@ -19,7 +21,11 @@ Wires
 
 M3 screws(M3x12)
 
-M3screws(M3x16)
+M3 screws(M3x16)
+
+M5 screws(M5x20)
+
+M4 screws(M4x20)
 
 M3 hexnuts
 
@@ -31,3 +37,6 @@ Print in ABS -
 4.5 Walls - 
 50% infill - 
 no Supports
+
+### Putting things togeter
+See the pictures in pics folder
