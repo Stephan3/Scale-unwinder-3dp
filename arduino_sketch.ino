@@ -17,7 +17,7 @@ volatile bool tare_me = false;
 const int touch_threeshold = 30;                            //  30 worked well with my screws, adjust here if needed
 volatile unsigned long sinceLastTouch = 0;
 
-//  smoothing of weight, less jumpy
+//  smoothing of weight, less jumpy (exponential smoothening)
 float alpha = .6;
 float smooth_weight = 0;
 

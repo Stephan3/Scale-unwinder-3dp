@@ -2,7 +2,7 @@
 A ESP32 driven Scale, Adjustable spoolwidth, esp touch for tare, offset 1, offset 2
 
 For my recuring plates i need to know the remaining Filamet on spool. 
-As my wife hated me a ton for taking away her kitchen scale every day, this here became my solution.
+As my wife was yellin a ton for taking away her kitchen scale every day, this here became my solution.
 
 ![render](https://raw.githubusercontent.com/Stephan3/Scale-unwinder-3dp/master/pics/render_1.PNG)
 
@@ -19,15 +19,15 @@ A ESP32 mcu - [Aliexpress](https://de.aliexpress.com/item/32839344778)
 
 Wires
 
-M3 screws(M3x12)
+M3 screws DIN 912 (M3x12mm)
 
-M3 screws(M3x16)
+M3 screws DIN 912 (M3x16mm)
 
-M5 screws(M5x20)
+M5 screws DIN 912 (M5x20mm)
 
-M4 screws(M4x20)
+M4 screws DIN 912 (M4x20mm)
 
-M3 hexnuts
+Heatinserts m3 thread  (M3 x 5mm x 4mm)
 
 usbcable
 
@@ -41,7 +41,7 @@ no Supports
 ### Putting things togeter
 See the pictures in pics folder.
 
-Insert the hexnuts with a soldering iron. Use washers between loadcell and scalecase.
+Insert the heatinserts with a soldering iron. Use washers between loadcell and scalecase.
 
 Test the touch wires before closing the case, there is a serial feedback. The wires can be pushed into the screw holes of the displayfeet and then just screw in the display holder. You might want to change touchpins T0-T9 (line 72)
 
